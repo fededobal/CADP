@@ -26,10 +26,10 @@ Cada carpeta tiene los ejercicios resueltos, un archivo `.pas` por ejercicio (`N
 
 ## Finales
 
-- [03-09-2024.pas](2024/Finales/03-09-2024.pas): departamento con más empleados presentes en un período.
-- [06-02-2024](2024/Finales/06-02-2024/): [código](2024/Finales/06-02-2024/06-02-2024.pas) (ventas cuya cantidad de productos tiene más dígitos pares, copiadas a una segunda lista) y [respuestas teóricas](2024/Finales/06-02-2024/06-02-2024.pdf).
-- [06-08-2024](2024/Finales/06-08-2024/): [código](2024/Finales/06-08-2024/06-08-2024.pas) (eliminar de una lista a los alumnos irregulares) y [PDF](2024/Finales/06-08-2024/06-08-2024.pdf).
-- [9-08-2022.pas](2024/Finales/9-08-2022.pas): participantes de una carrera agrupados por categoría en una lista.
+- [03/09/2024](2024/Finales/03-09-2024.pas): departamento con más empleados presentes en un período.
+- [06/02/2024](2024/Finales/06-02-2024/): [código](2024/Finales/06-02-2024/06-02-2024.pas) (ventas cuya cantidad de productos tiene más dígitos pares, copiadas a una segunda lista) y [respuestas teóricas](2024/Finales/06-02-2024/06-02-2024.pdf).
+- [06/08/2024](2024/Finales/06-08-2024/): [código](2024/Finales/06-08-2024/06-08-2024.pas) (eliminar de una lista a los alumnos irregulares) y [PDF](2024/Finales/06-08-2024/06-08-2024.pdf).
+- [09/08/2022](2024/Finales/9-08-2022.pas): participantes de una carrera agrupados por categoría en una lista.
 - [batallaNaval.pas](2024/Finales/batallaNaval.pas): batalla naval simplificada de 10 rondas entre dos jugadores.
 - [vectorDeCaracteres.pas](2024/Finales/vectorDeCaracteres.pas): cuenta las repeticiones de cada letra de un vector de caracteres.
 
